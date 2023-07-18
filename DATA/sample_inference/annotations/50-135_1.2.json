@@ -1,0 +1,2965 @@
+{
+    "form": [
+        {
+            "box": [
+                91,
+                198,
+                436,
+                223
+            ],
+            "text": "STEP 2: Property Information",
+            "label": "HEADER",
+            "words": [
+                {
+                    "box": [
+                        91,
+                        198,
+                        156,
+                        218
+                    ],
+                    "text": "STEP"
+                },
+                {
+                    "box": [
+                        164,
+                        199,
+                        184,
+                        218
+                    ],
+                    "text": "2:"
+                },
+                {
+                    "box": [
+                        193,
+                        198,
+                        294,
+                        223
+                    ],
+                    "text": "Property"
+                },
+                {
+                    "box": [
+                        302,
+                        198,
+                        436,
+                        219
+                    ],
+                    "text": "Information"
+                }
+            ],
+            "linking": [],
+            "id": 0
+        },
+        {
+            "box": [
+                84,
+                281,
+                821,
+                307
+            ],
+            "text": "22114 Blanda Trail, Satterfieldbury, Oregon 06342-7465",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        84,
+                        281,
+                        165,
+                        302
+                    ],
+                    "text": "22114"
+                },
+                {
+                    "box": [
+                        177,
+                        281,
+                        263,
+                        302
+                    ],
+                    "text": "Blanda"
+                },
+                {
+                    "box": [
+                        273,
+                        281,
+                        334,
+                        306
+                    ],
+                    "text": "Trail,"
+                },
+                {
+                    "box": [
+                        346,
+                        281,
+                        546,
+                        307
+                    ],
+                    "text": "Satterfieldbury,"
+                },
+                {
+                    "box": [
+                        557,
+                        281,
+                        651,
+                        307
+                    ],
+                    "text": "Oregon"
+                },
+                {
+                    "box": [
+                        662,
+                        281,
+                        821,
+                        303
+                    ],
+                    "text": "06342-7465"
+                }
+            ],
+            "linking": [],
+            "id": 1
+        },
+        {
+            "box": [
+                79,
+                314,
+                342,
+                334
+            ],
+            "text": "Address, City, State, ZIP Code",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        79,
+                        314,
+                        154,
+                        333
+                    ],
+                    "text": "Address,"
+                },
+                {
+                    "box": [
+                        162,
+                        314,
+                        198,
+                        334
+                    ],
+                    "text": "City,"
+                },
+                {
+                    "box": [
+                        205,
+                        314,
+                        253,
+                        333
+                    ],
+                    "text": "State,"
+                },
+                {
+                    "box": [
+                        260,
+                        314,
+                        290,
+                        331
+                    ],
+                    "text": "ZIP"
+                },
+                {
+                    "box": [
+                        297,
+                        314,
+                        342,
+                        330
+                    ],
+                    "text": "Code"
+                }
+            ],
+            "linking": [],
+            "id": 2
+        },
+        {
+            "box": [
+                79,
+                399,
+                321,
+                419
+            ],
+            "text": "Legal Description (if known)",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        79,
+                        399,
+                        127,
+                        419
+                    ],
+                    "text": "Legal"
+                },
+                {
+                    "box": [
+                        133,
+                        399,
+                        230,
+                        419
+                    ],
+                    "text": "Description"
+                },
+                {
+                    "box": [
+                        236,
+                        399,
+                        253,
+                        419
+                    ],
+                    "text": "(if"
+                },
+                {
+                    "box": [
+                        257,
+                        399,
+                        321,
+                        419
+                    ],
+                    "text": "known)"
+                }
+            ],
+            "linking": [],
+            "id": 3
+        },
+        {
+            "box": [
+                1176,
+                399,
+                1564,
+                419
+            ],
+            "text": "Appraisal District Account Number (if known)",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        1176,
+                        399,
+                        1258,
+                        419
+                    ],
+                    "text": "Appraisal"
+                },
+                {
+                    "box": [
+                        1264,
+                        399,
+                        1323,
+                        415
+                    ],
+                    "text": "District"
+                },
+                {
+                    "box": [
+                        1328,
+                        399,
+                        1399,
+                        415
+                    ],
+                    "text": "Account"
+                },
+                {
+                    "box": [
+                        1405,
+                        399,
+                        1474,
+                        415
+                    ],
+                    "text": "Number"
+                },
+                {
+                    "box": [
+                        1479,
+                        399,
+                        1496,
+                        419
+                    ],
+                    "text": "(if"
+                },
+                {
+                    "box": [
+                        1500,
+                        399,
+                        1564,
+                        419
+                    ],
+                    "text": "known)"
+                }
+            ],
+            "linking": [],
+            "id": 4
+        },
+        {
+            "box": [
+                88,
+                451,
+                343,
+                477
+            ],
+            "text": "Bungalow - 827376",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        88,
+                        451,
+                        214,
+                        477
+                    ],
+                    "text": "Bungalow"
+                },
+                {
+                    "box": [
+                        224,
+                        461,
+                        235,
+                        466
+                    ],
+                    "text": "-"
+                },
+                {
+                    "box": [
+                        245,
+                        451,
+                        343,
+                        473
+                    ],
+                    "text": "827376"
+                }
+            ],
+            "linking": [],
+            "id": 5
+        },
+        {
+            "box": [
+                80,
+                484,
+                611,
+                504
+            ],
+            "text": "Manufactured Home (make, model and identification number)",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        80,
+                        484,
+                        197,
+                        500
+                    ],
+                    "text": "Manufactured"
+                },
+                {
+                    "box": [
+                        204,
+                        484,
+                        254,
+                        500
+                    ],
+                    "text": "Home"
+                },
+                {
+                    "box": [
+                        261,
+                        484,
+                        318,
+                        504
+                    ],
+                    "text": "(make,"
+                },
+                {
+                    "box": [
+                        323,
+                        484,
+                        379,
+                        500
+                    ],
+                    "text": "model"
+                },
+                {
+                    "box": [
+                        383,
+                        484,
+                        417,
+                        500
+                    ],
+                    "text": "and"
+                },
+                {
+                    "box": [
+                        422,
+                        484,
+                        533,
+                        500
+                    ],
+                    "text": "identification"
+                },
+                {
+                    "box": [
+                        538,
+                        484,
+                        611,
+                        504
+                    ],
+                    "text": "number)"
+                }
+            ],
+            "linking": [],
+            "id": 6
+        },
+        {
+            "box": [
+                91,
+                528,
+                635,
+                553
+            ],
+            "text": "STEP 3: Type of Exemption and Qualifications",
+            "label": "HEADER",
+            "words": [
+                {
+                    "box": [
+                        91,
+                        528,
+                        156,
+                        548
+                    ],
+                    "text": "STEP"
+                },
+                {
+                    "box": [
+                        164,
+                        529,
+                        184,
+                        548
+                    ],
+                    "text": "3:"
+                },
+                {
+                    "box": [
+                        190,
+                        529,
+                        246,
+                        553
+                    ],
+                    "text": "Type"
+                },
+                {
+                    "box": [
+                        254,
+                        528,
+                        277,
+                        548
+                    ],
+                    "text": "of"
+                },
+                {
+                    "box": [
+                        284,
+                        528,
+                        410,
+                        553
+                    ],
+                    "text": "Exemption"
+                },
+                {
+                    "box": [
+                        419,
+                        528,
+                        462,
+                        548
+                    ],
+                    "text": "and"
+                },
+                {
+                    "box": [
+                        469,
+                        528,
+                        635,
+                        549
+                    ],
+                    "text": "Qualifications"
+                }
+            ],
+            "linking": [],
+            "id": 7
+        },
+        {
+            "box": [
+                80,
+                583,
+                558,
+                606
+            ],
+            "text": "Check the exemption for which you are applying.",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        80,
+                        583,
+                        142,
+                        601
+                    ],
+                    "text": "Check"
+                },
+                {
+                    "box": [
+                        148,
+                        584,
+                        179,
+                        601
+                    ],
+                    "text": "the"
+                },
+                {
+                    "box": [
+                        187,
+                        583,
+                        287,
+                        606
+                    ],
+                    "text": "exemption"
+                },
+                {
+                    "box": [
+                        294,
+                        583,
+                        321,
+                        601
+                    ],
+                    "text": "for"
+                },
+                {
+                    "box": [
+                        326,
+                        583,
+                        383,
+                        601
+                    ],
+                    "text": "which"
+                },
+                {
+                    "box": [
+                        390,
+                        587,
+                        425,
+                        606
+                    ],
+                    "text": "you"
+                },
+                {
+                    "box": [
+                        433,
+                        587,
+                        463,
+                        601
+                    ],
+                    "text": "are"
+                },
+                {
+                    "box": [
+                        471,
+                        583,
+                        558,
+                        606
+                    ],
+                    "text": "applying."
+                }
+            ],
+            "linking": [],
+            "id": 8
+        },
+        {
+            "box": [
+                181,
+                635,
+                493,
+                658
+            ],
+            "text": "Disabled Veteran's Exemption",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        181,
+                        636,
+                        272,
+                        653
+                    ],
+                    "text": "Disabled"
+                },
+                {
+                    "box": [
+                        277,
+                        636,
+                        373,
+                        654
+                    ],
+                    "text": "Veteran's"
+                },
+                {
+                    "box": [
+                        381,
+                        635,
+                        493,
+                        658
+                    ],
+                    "text": "Exemption"
+                }
+            ],
+            "linking": [],
+            "id": 9
+        },
+        {
+            "box": [
+                181,
+                687,
+                800,
+                710
+            ],
+            "text": "Surviving Spouse or Child of a Deceased Disabled Veteran",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        181,
+                        687,
+                        281,
+                        710
+                    ],
+                    "text": "Surviving"
+                },
+                {
+                    "box": [
+                        289,
+                        688,
+                        369,
+                        710
+                    ],
+                    "text": "Spouse"
+                },
+                {
+                    "box": [
+                        376,
+                        691,
+                        398,
+                        705
+                    ],
+                    "text": "or"
+                },
+                {
+                    "box": [
+                        405,
+                        687,
+                        459,
+                        705
+                    ],
+                    "text": "Child"
+                },
+                {
+                    "box": [
+                        467,
+                        687,
+                        488,
+                        705
+                    ],
+                    "text": "of"
+                },
+                {
+                    "box": [
+                        495,
+                        692,
+                        507,
+                        705
+                    ],
+                    "text": "a"
+                },
+                {
+                    "box": [
+                        515,
+                        688,
+                        617,
+                        706
+                    ],
+                    "text": "Deceased"
+                },
+                {
+                    "box": [
+                        625,
+                        687,
+                        716,
+                        705
+                    ],
+                    "text": "Disabled"
+                },
+                {
+                    "box": [
+                        721,
+                        688,
+                        800,
+                        706
+                    ],
+                    "text": "Veteran"
+                }
+            ],
+            "linking": [],
+            "id": 10
+        },
+        {
+            "box": [
+                181,
+                739,
+                1006,
+                762
+            ],
+            "text": "Surviving Spouse or Child of Armed Service Member who died on Active Duty",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        181,
+                        739,
+                        281,
+                        762
+                    ],
+                    "text": "Surviving"
+                },
+                {
+                    "box": [
+                        289,
+                        740,
+                        369,
+                        762
+                    ],
+                    "text": "Spouse"
+                },
+                {
+                    "box": [
+                        376,
+                        743,
+                        398,
+                        757
+                    ],
+                    "text": "or"
+                },
+                {
+                    "box": [
+                        405,
+                        739,
+                        459,
+                        757
+                    ],
+                    "text": "Child"
+                },
+                {
+                    "box": [
+                        467,
+                        740,
+                        488,
+                        757
+                    ],
+                    "text": "of"
+                },
+                {
+                    "box": [
+                        494,
+                        740,
+                        563,
+                        757
+                    ],
+                    "text": "Armed"
+                },
+                {
+                    "box": [
+                        571,
+                        740,
+                        650,
+                        757
+                    ],
+                    "text": "Service"
+                },
+                {
+                    "box": [
+                        657,
+                        739,
+                        742,
+                        758
+                    ],
+                    "text": "Member"
+                },
+                {
+                    "box": [
+                        748,
+                        739,
+                        793,
+                        757
+                    ],
+                    "text": "who"
+                },
+                {
+                    "box": [
+                        800,
+                        739,
+                        844,
+                        757
+                    ],
+                    "text": "died"
+                },
+                {
+                    "box": [
+                        853,
+                        743,
+                        878,
+                        757
+                    ],
+                    "text": "on"
+                },
+                {
+                    "box": [
+                        886,
+                        740,
+                        951,
+                        757
+                    ],
+                    "text": "Active"
+                },
+                {
+                    "box": [
+                        958,
+                        740,
+                        1006,
+                        762
+                    ],
+                    "text": "Duty"
+                }
+            ],
+            "linking": [],
+            "id": 11
+        },
+        {
+            "box": [
+                81,
+                790,
+                1473,
+                813
+            ],
+            "text": "Please provide the following information and attach documentation from the V.A. or service branch identifying the most recent disability rating.",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        81,
+                        791,
+                        147,
+                        808
+                    ],
+                    "text": "Please"
+                },
+                {
+                    "box": [
+                        155,
+                        791,
+                        225,
+                        813
+                    ],
+                    "text": "provide"
+                },
+                {
+                    "box": [
+                        233,
+                        791,
+                        263,
+                        808
+                    ],
+                    "text": "the"
+                },
+                {
+                    "box": [
+                        270,
+                        790,
+                        355,
+                        813
+                    ],
+                    "text": "following"
+                },
+                {
+                    "box": [
+                        363,
+                        790,
+                        472,
+                        808
+                    ],
+                    "text": "information"
+                },
+                {
+                    "box": [
+                        480,
+                        791,
+                        516,
+                        808
+                    ],
+                    "text": "and"
+                },
+                {
+                    "box": [
+                        524,
+                        791,
+                        582,
+                        808
+                    ],
+                    "text": "attach"
+                },
+                {
+                    "box": [
+                        590,
+                        791,
+                        734,
+                        808
+                    ],
+                    "text": "documentation"
+                },
+                {
+                    "box": [
+                        742,
+                        791,
+                        785,
+                        808
+                    ],
+                    "text": "from"
+                },
+                {
+                    "box": [
+                        792,
+                        791,
+                        823,
+                        808
+                    ],
+                    "text": "the"
+                },
+                {
+                    "box": [
+                        829,
+                        791,
+                        867,
+                        808
+                    ],
+                    "text": "V.A."
+                },
+                {
+                    "box": [
+                        875,
+                        794,
+                        895,
+                        808
+                    ],
+                    "text": "or"
+                },
+                {
+                    "box": [
+                        901,
+                        791,
+                        971,
+                        808
+                    ],
+                    "text": "service"
+                },
+                {
+                    "box": [
+                        978,
+                        791,
+                        1045,
+                        808
+                    ],
+                    "text": "branch"
+                },
+                {
+                    "box": [
+                        1053,
+                        790,
+                        1152,
+                        813
+                    ],
+                    "text": "identifying"
+                },
+                {
+                    "box": [
+                        1159,
+                        791,
+                        1190,
+                        808
+                    ],
+                    "text": "the"
+                },
+                {
+                    "box": [
+                        1197,
+                        792,
+                        1246,
+                        808
+                    ],
+                    "text": "most"
+                },
+                {
+                    "box": [
+                        1253,
+                        791,
+                        1314,
+                        808
+                    ],
+                    "text": "recent"
+                },
+                {
+                    "box": [
+                        1320,
+                        790,
+                        1407,
+                        813
+                    ],
+                    "text": "disability"
+                },
+                {
+                    "box": [
+                        1414,
+                        791,
+                        1473,
+                        813
+                    ],
+                    "text": "rating."
+                }
+            ],
+            "linking": [],
+            "id": 12
+        },
+        {
+            "box": [
+                134,
+                854,
+                337,
+                881
+            ],
+            "text": "Philip Russel Sr.",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        134,
+                        854,
+                        201,
+                        881
+                    ],
+                    "text": "Philip"
+                },
+                {
+                    "box": [
+                        212,
+                        855,
+                        293,
+                        876
+                    ],
+                    "text": "Russel"
+                },
+                {
+                    "box": [
+                        305,
+                        854,
+                        337,
+                        876
+                    ],
+                    "text": "Sr."
+                }
+            ],
+            "linking": [],
+            "id": 13
+        },
+        {
+            "box": [
+                125,
+                890,
+                262,
+                907
+            ],
+            "text": "Veteran's Name",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        125,
+                        890,
+                        204,
+                        907
+                    ],
+                    "text": "Veteran's"
+                },
+                {
+                    "box": [
+                        210,
+                        890,
+                        262,
+                        906
+                    ],
+                    "text": "Name"
+                }
+            ],
+            "linking": [],
+            "id": 14
+        },
+        {
+            "box": [
+                141,
+                945,
+                204,
+                970
+            ],
+            "text": "Navy",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        141,
+                        945,
+                        204,
+                        970
+                    ],
+                    "text": "Navy"
+                }
+            ],
+            "linking": [],
+            "id": 15
+        },
+        {
+            "box": [
+                796,
+                944,
+                854,
+                966
+            ],
+            "text": "70%",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        796,
+                        944,
+                        854,
+                        966
+                    ],
+                    "text": "70%"
+                }
+            ],
+            "linking": [],
+            "id": 16
+        },
+        {
+            "box": [
+                1152,
+                944,
+                1182,
+                965
+            ],
+            "text": "54",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1152,
+                        944,
+                        1182,
+                        965
+                    ],
+                    "text": "54"
+                }
+            ],
+            "linking": [],
+            "id": 17
+        },
+        {
+            "box": [
+                1307,
+                944,
+                1370,
+                965
+            ],
+            "text": "8271",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1307,
+                        944,
+                        1370,
+                        965
+                    ],
+                    "text": "8271"
+                }
+            ],
+            "linking": [],
+            "id": 18
+        },
+        {
+            "box": [
+                127,
+                975,
+                281,
+                992
+            ],
+            "text": "Branch of Service",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        127,
+                        975,
+                        188,
+                        991
+                    ],
+                    "text": "Branch"
+                },
+                {
+                    "box": [
+                        194,
+                        975,
+                        211,
+                        991
+                    ],
+                    "text": "of"
+                },
+                {
+                    "box": [
+                        216,
+                        975,
+                        281,
+                        992
+                    ],
+                    "text": "Service"
+                }
+            ],
+            "linking": [],
+            "id": 19
+        },
+        {
+            "box": [
+                713,
+                975,
+                853,
+                995
+            ],
+            "text": "Disability Rating",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        713,
+                        975,
+                        791,
+                        995
+                    ],
+                    "text": "Disability"
+                },
+                {
+                    "box": [
+                        798,
+                        975,
+                        853,
+                        995
+                    ],
+                    "text": "Rating"
+                }
+            ],
+            "linking": [],
+            "id": 20
+        },
+        {
+            "box": [
+                1115,
+                975,
+                1149,
+                995
+            ],
+            "text": "Age",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        1115,
+                        975,
+                        1149,
+                        995
+                    ],
+                    "text": "Age"
+                }
+            ],
+            "linking": [],
+            "id": 21
+        },
+        {
+            "box": [
+                1286,
+                975,
+                1410,
+                991
+            ],
+            "text": "Serial Number",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        1286,
+                        975,
+                        1334,
+                        991
+                    ],
+                    "text": "Serial"
+                },
+                {
+                    "box": [
+                        1341,
+                        975,
+                        1410,
+                        991
+                    ],
+                    "text": "Number"
+                }
+            ],
+            "linking": [],
+            "id": 22
+        },
+        {
+            "box": [
+                103,
+                1037,
+                552,
+                1060
+            ],
+            "text": "Does the service connected disability include:",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        103,
+                        1038,
+                        153,
+                        1055
+                    ],
+                    "text": "Does"
+                },
+                {
+                    "box": [
+                        160,
+                        1038,
+                        190,
+                        1055
+                    ],
+                    "text": "the"
+                },
+                {
+                    "box": [
+                        199,
+                        1038,
+                        268,
+                        1055
+                    ],
+                    "text": "service"
+                },
+                {
+                    "box": [
+                        276,
+                        1037,
+                        377,
+                        1055
+                    ],
+                    "text": "connected"
+                },
+                {
+                    "box": [
+                        385,
+                        1037,
+                        470,
+                        1060
+                    ],
+                    "text": "disability"
+                },
+                {
+                    "box": [
+                        477,
+                        1037,
+                        552,
+                        1055
+                    ],
+                    "text": "include:"
+                }
+            ],
+            "linking": [],
+            "id": 23
+        },
+        {
+            "box": [
+                719,
+                1037,
+                977,
+                1055
+            ],
+            "text": "Loss of one or more limbs",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        719,
+                        1038,
+                        765,
+                        1055
+                    ],
+                    "text": "Loss"
+                },
+                {
+                    "box": [
+                        773,
+                        1037,
+                        791,
+                        1055
+                    ],
+                    "text": "of"
+                },
+                {
+                    "box": [
+                        798,
+                        1041,
+                        834,
+                        1055
+                    ],
+                    "text": "one"
+                },
+                {
+                    "box": [
+                        842,
+                        1041,
+                        863,
+                        1055
+                    ],
+                    "text": "or"
+                },
+                {
+                    "box": [
+                        868,
+                        1041,
+                        918,
+                        1055
+                    ],
+                    "text": "more"
+                },
+                {
+                    "box": [
+                        925,
+                        1038,
+                        977,
+                        1055
+                    ],
+                    "text": "limbs"
+                }
+            ],
+            "linking": [],
+            "id": 24
+        },
+        {
+            "box": [
+                1069,
+                1037,
+                1361,
+                1060
+            ],
+            "text": "Blindness in one or both eyes",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1069,
+                        1037,
+                        1163,
+                        1055
+                    ],
+                    "text": "Blindness"
+                },
+                {
+                    "box": [
+                        1170,
+                        1038,
+                        1187,
+                        1055
+                    ],
+                    "text": "in"
+                },
+                {
+                    "box": [
+                        1195,
+                        1041,
+                        1231,
+                        1055
+                    ],
+                    "text": "one"
+                },
+                {
+                    "box": [
+                        1239,
+                        1041,
+                        1259,
+                        1055
+                    ],
+                    "text": "or"
+                },
+                {
+                    "box": [
+                        1265,
+                        1038,
+                        1307,
+                        1055
+                    ],
+                    "text": "both"
+                },
+                {
+                    "box": [
+                        1316,
+                        1041,
+                        1361,
+                        1060
+                    ],
+                    "text": "eyes"
+                }
+            ],
+            "linking": [],
+            "id": 25
+        },
+        {
+            "box": [
+                101,
+                1103,
+                401,
+                1125
+            ],
+            "text": "Are you the surviving spouse?",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        101,
+                        1103,
+                        135,
+                        1120
+                    ],
+                    "text": "Are"
+                },
+                {
+                    "box": [
+                        142,
+                        1107,
+                        177,
+                        1125
+                    ],
+                    "text": "you"
+                },
+                {
+                    "box": [
+                        184,
+                        1103,
+                        215,
+                        1120
+                    ],
+                    "text": "the"
+                },
+                {
+                    "box": [
+                        222,
+                        1103,
+                        310,
+                        1125
+                    ],
+                    "text": "surviving"
+                },
+                {
+                    "box": [
+                        317,
+                        1103,
+                        401,
+                        1125
+                    ],
+                    "text": "spouse?"
+                }
+            ],
+            "linking": [],
+            "id": 26
+        },
+        {
+            "box": [
+                1456,
+                1103,
+                1491,
+                1120
+            ],
+            "text": "Yes",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1456,
+                        1103,
+                        1491,
+                        1120
+                    ],
+                    "text": "Yes"
+                }
+            ],
+            "linking": [],
+            "id": 27
+        },
+        {
+            "box": [
+                1582,
+                1103,
+                1610,
+                1120
+            ],
+            "text": "No",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1582,
+                        1103,
+                        1610,
+                        1120
+                    ],
+                    "text": "No"
+                }
+            ],
+            "linking": [],
+            "id": 28
+        },
+        {
+            "box": [
+                127,
+                1166,
+                395,
+                1189
+            ],
+            "text": "If yes, have you remarried?",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        127,
+                        1167,
+                        139,
+                        1184
+                    ],
+                    "text": "If"
+                },
+                {
+                    "box": [
+                        145,
+                        1170,
+                        184,
+                        1189
+                    ],
+                    "text": "yes,"
+                },
+                {
+                    "box": [
+                        192,
+                        1167,
+                        239,
+                        1184
+                    ],
+                    "text": "have"
+                },
+                {
+                    "box": [
+                        246,
+                        1170,
+                        281,
+                        1189
+                    ],
+                    "text": "you"
+                },
+                {
+                    "box": [
+                        290,
+                        1166,
+                        395,
+                        1184
+                    ],
+                    "text": "remarried?"
+                }
+            ],
+            "linking": [],
+            "id": 29
+        },
+        {
+            "box": [
+                1456,
+                1166,
+                1491,
+                1184
+            ],
+            "text": "Yes",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1456,
+                        1166,
+                        1491,
+                        1184
+                    ],
+                    "text": "Yes"
+                }
+            ],
+            "linking": [],
+            "id": 30
+        },
+        {
+            "box": [
+                1582,
+                1166,
+                1610,
+                1184
+            ],
+            "text": "No",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1582,
+                        1166,
+                        1610,
+                        1184
+                    ],
+                    "text": "No"
+                }
+            ],
+            "linking": [],
+            "id": 31
+        },
+        {
+            "box": [
+                101,
+                1231,
+                356,
+                1253
+            ],
+            "text": "Are you a surviving child?",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        101,
+                        1231,
+                        135,
+                        1248
+                    ],
+                    "text": "Are"
+                },
+                {
+                    "box": [
+                        141,
+                        1235,
+                        177,
+                        1252
+                    ],
+                    "text": "you"
+                },
+                {
+                    "box": [
+                        185,
+                        1235,
+                        197,
+                        1248
+                    ],
+                    "text": "a"
+                },
+                {
+                    "box": [
+                        204,
+                        1231,
+                        291,
+                        1253
+                    ],
+                    "text": "surviving"
+                },
+                {
+                    "box": [
+                        299,
+                        1231,
+                        356,
+                        1248
+                    ],
+                    "text": "child?"
+                }
+            ],
+            "linking": [],
+            "id": 32
+        },
+        {
+            "box": [
+                1456,
+                1231,
+                1491,
+                1248
+            ],
+            "text": "Yes",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1456,
+                        1231,
+                        1491,
+                        1248
+                    ],
+                    "text": "Yes"
+                }
+            ],
+            "linking": [],
+            "id": 33
+        },
+        {
+            "box": [
+                1582,
+                1230,
+                1610,
+                1248
+            ],
+            "text": "No",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1582,
+                        1230,
+                        1610,
+                        1248
+                    ],
+                    "text": "No"
+                }
+            ],
+            "linking": [],
+            "id": 34
+        },
+        {
+            "box": [
+                127,
+                1295,
+                522,
+                1318
+            ],
+            "text": "If yes, are you: Under 18 years of age?",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        127,
+                        1295,
+                        139,
+                        1313
+                    ],
+                    "text": "If"
+                },
+                {
+                    "box": [
+                        145,
+                        1300,
+                        184,
+                        1318
+                    ],
+                    "text": "yes,"
+                },
+                {
+                    "box": [
+                        193,
+                        1300,
+                        223,
+                        1313
+                    ],
+                    "text": "are"
+                },
+                {
+                    "box": [
+                        231,
+                        1300,
+                        271,
+                        1318
+                    ],
+                    "text": "you:"
+                },
+                {
+                    "box": [
+                        292,
+                        1295,
+                        352,
+                        1313
+                    ],
+                    "text": "Under"
+                },
+                {
+                    "box": [
+                        359,
+                        1295,
+                        381,
+                        1313
+                    ],
+                    "text": "18"
+                },
+                {
+                    "box": [
+                        388,
+                        1299,
+                        441,
+                        1318
+                    ],
+                    "text": "years"
+                },
+                {
+                    "box": [
+                        449,
+                        1295,
+                        468,
+                        1313
+                    ],
+                    "text": "of"
+                },
+                {
+                    "box": [
+                        475,
+                        1296,
+                        522,
+                        1318
+                    ],
+                    "text": "age?"
+                }
+            ],
+            "linking": [],
+            "id": 35
+        },
+        {
+            "box": [
+                1456,
+                1295,
+                1491,
+                1313
+            ],
+            "text": "Yes",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1456,
+                        1295,
+                        1491,
+                        1313
+                    ],
+                    "text": "Yes"
+                }
+            ],
+            "linking": [],
+            "id": 36
+        },
+        {
+            "box": [
+                1582,
+                1295,
+                1610,
+                1314
+            ],
+            "text": "No",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1582,
+                        1295,
+                        1610,
+                        1314
+                    ],
+                    "text": "No"
+                }
+            ],
+            "linking": [],
+            "id": 37
+        },
+        {
+            "box": [
+                291,
+                1359,
+                406,
+                1378
+            ],
+            "text": "Unmarried?",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        291,
+                        1359,
+                        406,
+                        1378
+                    ],
+                    "text": "Unmarried?"
+                }
+            ],
+            "linking": [],
+            "id": 38
+        },
+        {
+            "box": [
+                1456,
+                1359,
+                1491,
+                1377
+            ],
+            "text": "Yes",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1456,
+                        1359,
+                        1491,
+                        1377
+                    ],
+                    "text": "Yes"
+                }
+            ],
+            "linking": [],
+            "id": 39
+        },
+        {
+            "box": [
+                1582,
+                1359,
+                1610,
+                1377
+            ],
+            "text": "No",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1582,
+                        1359,
+                        1610,
+                        1377
+                    ],
+                    "text": "No"
+                }
+            ],
+            "linking": [],
+            "id": 40
+        },
+        {
+            "box": [
+                130,
+                1423,
+                833,
+                1446
+            ],
+            "text": "Number of qualifying parent's children who are under 18 and unmarried",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        130,
+                        1424,
+                        210,
+                        1441
+                    ],
+                    "text": "Number"
+                },
+                {
+                    "box": [
+                        216,
+                        1423,
+                        234,
+                        1441
+                    ],
+                    "text": "of"
+                },
+                {
+                    "box": [
+                        241,
+                        1423,
+                        334,
+                        1446
+                    ],
+                    "text": "qualifying"
+                },
+                {
+                    "box": [
+                        341,
+                        1424,
+                        418,
+                        1446
+                    ],
+                    "text": "parent's"
+                },
+                {
+                    "box": [
+                        426,
+                        1424,
+                        502,
+                        1441
+                    ],
+                    "text": "children"
+                },
+                {
+                    "box": [
+                        509,
+                        1424,
+                        551,
+                        1441
+                    ],
+                    "text": "who"
+                },
+                {
+                    "box": [
+                        558,
+                        1427,
+                        588,
+                        1441
+                    ],
+                    "text": "are"
+                },
+                {
+                    "box": [
+                        596,
+                        1424,
+                        654,
+                        1441
+                    ],
+                    "text": "under"
+                },
+                {
+                    "box": [
+                        661,
+                        1424,
+                        682,
+                        1441
+                    ],
+                    "text": "18"
+                },
+                {
+                    "box": [
+                        691,
+                        1424,
+                        726,
+                        1441
+                    ],
+                    "text": "and"
+                },
+                {
+                    "box": [
+                        733,
+                        1423,
+                        833,
+                        1441
+                    ],
+                    "text": "unmarried"
+                }
+            ],
+            "linking": [],
+            "id": 41
+        },
+        {
+            "box": [
+                91,
+                1481,
+                383,
+                1506
+            ],
+            "text": "STEP 4: Late Application",
+            "label": "HEADER",
+            "words": [
+                {
+                    "box": [
+                        91,
+                        1481,
+                        157,
+                        1501
+                    ],
+                    "text": "STEP"
+                },
+                {
+                    "box": [
+                        163,
+                        1481,
+                        184,
+                        1502
+                    ],
+                    "text": "4:"
+                },
+                {
+                    "box": [
+                        192,
+                        1481,
+                        243,
+                        1501
+                    ],
+                    "text": "Late"
+                },
+                {
+                    "box": [
+                        250,
+                        1481,
+                        383,
+                        1506
+                    ],
+                    "text": "Application"
+                }
+            ],
+            "linking": [],
+            "id": 42
+        },
+        {
+            "box": [
+                80,
+                1537,
+                1589,
+                1587
+            ],
+            "text": "If you were eligible for this exemption last year, check this box and enter the prior tax year. You must have met all of the qualifications above on January 1\nof the prior tax year to receive the exemption for last year.",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        80,
+                        1537,
+                        92,
+                        1555
+                    ],
+                    "text": "If"
+                },
+                {
+                    "box": [
+                        98,
+                        1542,
+                        133,
+                        1560
+                    ],
+                    "text": "you"
+                },
+                {
+                    "box": [
+                        141,
+                        1541,
+                        187,
+                        1555
+                    ],
+                    "text": "were"
+                },
+                {
+                    "box": [
+                        196,
+                        1537,
+                        263,
+                        1560
+                    ],
+                    "text": "eligible"
+                },
+                {
+                    "box": [
+                        270,
+                        1538,
+                        297,
+                        1555
+                    ],
+                    "text": "for"
+                },
+                {
+                    "box": [
+                        302,
+                        1538,
+                        337,
+                        1555
+                    ],
+                    "text": "this"
+                },
+                {
+                    "box": [
+                        345,
+                        1538,
+                        444,
+                        1559
+                    ],
+                    "text": "exemption"
+                },
+                {
+                    "box": [
+                        452,
+                        1538,
+                        487,
+                        1555
+                    ],
+                    "text": "last"
+                },
+                {
+                    "box": [
+                        493,
+                        1542,
+                        541,
+                        1560
+                    ],
+                    "text": "year,"
+                },
+                {
+                    "box": [
+                        548,
+                        1537,
+                        606,
+                        1555
+                    ],
+                    "text": "check"
+                },
+                {
+                    "box": [
+                        612,
+                        1538,
+                        646,
+                        1555
+                    ],
+                    "text": "this"
+                },
+                {
+                    "box": [
+                        653,
+                        1538,
+                        689,
+                        1555
+                    ],
+                    "text": "box"
+                },
+                {
+                    "box": [
+                        696,
+                        1538,
+                        733,
+                        1555
+                    ],
+                    "text": "and"
+                },
+                {
+                    "box": [
+                        740,
+                        1539,
+                        791,
+                        1555
+                    ],
+                    "text": "enter"
+                },
+                {
+                    "box": [
+                        796,
+                        1538,
+                        827,
+                        1555
+                    ],
+                    "text": "the"
+                },
+                {
+                    "box": [
+                        834,
+                        1538,
+                        879,
+                        1560
+                    ],
+                    "text": "prior"
+                },
+                {
+                    "box": [
+                        885,
+                        1539,
+                        916,
+                        1556
+                    ],
+                    "text": "tax"
+                },
+                {
+                    "box": [
+                        922,
+                        1542,
+                        967,
+                        1560
+                    ],
+                    "text": "year."
+                },
+                {
+                    "box": [
+                        973,
+                        1537,
+                        1010,
+                        1555
+                    ],
+                    "text": "You"
+                },
+                {
+                    "box": [
+                        1016,
+                        1538,
+                        1065,
+                        1555
+                    ],
+                    "text": "must"
+                },
+                {
+                    "box": [
+                        1072,
+                        1538,
+                        1118,
+                        1555
+                    ],
+                    "text": "have"
+                },
+                {
+                    "box": [
+                        1125,
+                        1539,
+                        1163,
+                        1555
+                    ],
+                    "text": "met"
+                },
+                {
+                    "box": [
+                        1170,
+                        1538,
+                        1191,
+                        1555
+                    ],
+                    "text": "all"
+                },
+                {
+                    "box": [
+                        1199,
+                        1537,
+                        1217,
+                        1555
+                    ],
+                    "text": "of"
+                },
+                {
+                    "box": [
+                        1223,
+                        1538,
+                        1254,
+                        1555
+                    ],
+                    "text": "the"
+                },
+                {
+                    "box": [
+                        1262,
+                        1537,
+                        1389,
+                        1560
+                    ],
+                    "text": "qualifications"
+                },
+                {
+                    "box": [
+                        1397,
+                        1538,
+                        1455,
+                        1555
+                    ],
+                    "text": "above"
+                },
+                {
+                    "box": [
+                        1463,
+                        1541,
+                        1487,
+                        1555
+                    ],
+                    "text": "on"
+                },
+                {
+                    "box": [
+                        1494,
+                        1538,
+                        1574,
+                        1560
+                    ],
+                    "text": "January"
+                },
+                {
+                    "box": [
+                        1581,
+                        1538,
+                        1589,
+                        1555
+                    ],
+                    "text": "1"
+                },
+                {
+                    "box": [
+                        80,
+                        1564,
+                        98,
+                        1582
+                    ],
+                    "text": "of"
+                },
+                {
+                    "box": [
+                        104,
+                        1565,
+                        135,
+                        1582
+                    ],
+                    "text": "the"
+                },
+                {
+                    "box": [
+                        143,
+                        1565,
+                        188,
+                        1586
+                    ],
+                    "text": "prior"
+                },
+                {
+                    "box": [
+                        194,
+                        1565,
+                        224,
+                        1582
+                    ],
+                    "text": "tax"
+                },
+                {
+                    "box": [
+                        230,
+                        1568,
+                        274,
+                        1587
+                    ],
+                    "text": "year"
+                },
+                {
+                    "box": [
+                        279,
+                        1565,
+                        298,
+                        1582
+                    ],
+                    "text": "to"
+                },
+                {
+                    "box": [
+                        305,
+                        1565,
+                        375,
+                        1582
+                    ],
+                    "text": "receive"
+                },
+                {
+                    "box": [
+                        382,
+                        1565,
+                        412,
+                        1582
+                    ],
+                    "text": "the"
+                },
+                {
+                    "box": [
+                        419,
+                        1564,
+                        520,
+                        1587
+                    ],
+                    "text": "exemption"
+                },
+                {
+                    "box": [
+                        527,
+                        1564,
+                        554,
+                        1582
+                    ],
+                    "text": "for"
+                },
+                {
+                    "box": [
+                        560,
+                        1565,
+                        595,
+                        1582
+                    ],
+                    "text": "last"
+                },
+                {
+                    "box": [
+                        600,
+                        1569,
+                        647,
+                        1587
+                    ],
+                    "text": "year."
+                }
+            ],
+            "linking": [],
+            "id": 43
+        },
+        {
+            "box": [
+                137,
+                1615,
+                560,
+                1638
+            ],
+            "text": "Application for exemption for prior tax year,",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        137,
+                        1615,
+                        245,
+                        1638
+                    ],
+                    "text": "Application"
+                },
+                {
+                    "box": [
+                        252,
+                        1615,
+                        279,
+                        1633
+                    ],
+                    "text": "for"
+                },
+                {
+                    "box": [
+                        285,
+                        1615,
+                        385,
+                        1638
+                    ],
+                    "text": "exemption"
+                },
+                {
+                    "box": [
+                        392,
+                        1615,
+                        419,
+                        1633
+                    ],
+                    "text": "for"
+                },
+                {
+                    "box": [
+                        425,
+                        1616,
+                        470,
+                        1637
+                    ],
+                    "text": "prior"
+                },
+                {
+                    "box": [
+                        476,
+                        1617,
+                        506,
+                        1633
+                    ],
+                    "text": "tax"
+                },
+                {
+                    "box": [
+                        512,
+                        1619,
+                        560,
+                        1638
+                    ],
+                    "text": "year,"
+                }
+            ],
+            "linking": [],
+            "id": 44
+        },
+        {
+            "box": [
+                91,
+                1673,
+                510,
+                1698
+            ],
+            "text": "STEP 5: Certification and Signature",
+            "label": "HEADER",
+            "words": [
+                {
+                    "box": [
+                        91,
+                        1673,
+                        159,
+                        1693
+                    ],
+                    "text": "STEP"
+                },
+                {
+                    "box": [
+                        164,
+                        1674,
+                        184,
+                        1693
+                    ],
+                    "text": "5:"
+                },
+                {
+                    "box": [
+                        192,
+                        1673,
+                        336,
+                        1693
+                    ],
+                    "text": "Certification"
+                },
+                {
+                    "box": [
+                        345,
+                        1673,
+                        389,
+                        1693
+                    ],
+                    "text": "and"
+                },
+                {
+                    "box": [
+                        397,
+                        1673,
+                        510,
+                        1698
+                    ],
+                    "text": "Signature"
+                }
+            ],
+            "linking": [],
+            "id": 45
+        },
+        {
+            "box": [
+                190,
+                1801,
+                369,
+                1827
+            ],
+            "text": "Sam Russel",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        190,
+                        1801,
+                        258,
+                        1827
+                    ],
+                    "text": "Sam"
+                },
+                {
+                    "box": [
+                        272,
+                        1801,
+                        369,
+                        1827
+                    ],
+                    "text": "Russel"
+                }
+            ],
+            "linking": [],
+            "id": 46
+        },
+        {
+            "box": [
+                1067,
+                1801,
+                1108,
+                1827
+            ],
+            "text": "Mr.",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1067,
+                        1801,
+                        1108,
+                        1827
+                    ],
+                    "text": "Mr."
+                }
+            ],
+            "linking": [],
+            "id": 47
+        },
+        {
+            "box": [
+                188,
+                1841,
+                285,
+                1857
+            ],
+            "text": "Print Name",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        188,
+                        1841,
+                        227,
+                        1857
+                    ],
+                    "text": "Print"
+                },
+                {
+                    "box": [
+                        233,
+                        1841,
+                        285,
+                        1857
+                    ],
+                    "text": "Name"
+                }
+            ],
+            "linking": [],
+            "id": 48
+        },
+        {
+            "box": [
+                1054,
+                1841,
+                1091,
+                1857
+            ],
+            "text": "Title",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        1054,
+                        1841,
+                        1091,
+                        1857
+                    ],
+                    "text": "Title"
+                }
+            ],
+            "linking": [],
+            "id": 49
+        },
+        {
+            "box": [
+                190,
+                1878,
+                399,
+                1923
+            ],
+            "text": "SamRussel",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        190,
+                        1878,
+                        399,
+                        1923
+                    ],
+                    "text": "SamRussel"
+                }
+            ],
+            "linking": [],
+            "id": 50
+        },
+        {
+            "box": [
+                1052,
+                1898,
+                1236,
+                1927
+            ],
+            "text": "04/20/2016",
+            "label": "ANSWER",
+            "words": [
+                {
+                    "box": [
+                        1052,
+                        1898,
+                        1236,
+                        1927
+                    ],
+                    "text": "04/20/2016"
+                }
+            ],
+            "linking": [],
+            "id": 51
+        },
+        {
+            "box": [
+                187,
+                1939,
+                369,
+                1959
+            ],
+            "text": "Authorized Signature",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        187,
+                        1939,
+                        281,
+                        1956
+                    ],
+                    "text": "Authorized"
+                },
+                {
+                    "box": [
+                        287,
+                        1939,
+                        369,
+                        1959
+                    ],
+                    "text": "Signature"
+                }
+            ],
+            "linking": [],
+            "id": 52
+        },
+        {
+            "box": [
+                1055,
+                1939,
+                1094,
+                1955
+            ],
+            "text": "Date",
+            "label": "QUESTION",
+            "words": [
+                {
+                    "box": [
+                        1055,
+                        1939,
+                        1094,
+                        1955
+                    ],
+                    "text": "Date"
+                }
+            ],
+            "linking": [],
+            "id": 53
+        }
+    ]
+}
