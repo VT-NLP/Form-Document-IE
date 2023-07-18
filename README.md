@@ -42,11 +42,11 @@ For FUNSD, create a directory `FUNSD` and create two directories `funsd_test` an
 
 
 ## Available Paragraph/Tabular level region files
-| Dataset            | Size  | Download             | 
-| ---------------    | ----- | -------------------- |
-| FUNSD              |       | [Download link](https://drive.google.com/uc?export=download&id=1KzMwxLb0_b0GqB4rrPenWyJhyX9P_LFH)    | 
-| XFUND              |       | [Download link](https://drive.google.com/uc?export=download&id=1VpSApT8qmigj6JNyRmoyHfkhlg6vA3Vy)    |
-| <b>DiverseForm</b> |       | [Download link](https://drive.google.com/uc?export=download&id=1k6VSwkwyJ5MqV054TaHFLvRcI_GjWNeT)    | 
+| Dataset            | Download             | 
+| ---------------    | -------------------- |
+| FUNSD              | [Download link](https://drive.google.com/uc?export=download&id=1KzMwxLb0_b0GqB4rrPenWyJhyX9P_LFH)    | 
+| XFUND              | [Download link](https://drive.google.com/uc?export=download&id=1VpSApT8qmigj6JNyRmoyHfkhlg6vA3Vy)    |
+| <b>DiverseForm</b> | [Download link](https://drive.google.com/uc?export=download&id=1k6VSwkwyJ5MqV054TaHFLvRcI_GjWNeT)    | 
 
 Put the unzipped files to RE2 folder
 
@@ -86,17 +86,17 @@ Use just paragraph or combined region as fit. Rename file to `xfun_custom.json` 
 
 ## Available Checkpoints
 
-| Dataset (Language)| Size  | Download     | 
-| ------------------| ------| -----        |
-| FUNSD (EN)        |       | [Download link]() | 
-| XFUND (ZH)        |       | [Download link]() |
-| XFUND (JA)        |       | [Download link](https://drive.google.com/uc?export=download&id=1UCuS-yGlXeOpSCNQPys6fXOcPza4kMIN) |
-| XFUND (ES)        |       | [Download link](https://drive.google.com/uc?export=download&id=1mCI4j62g-7IXz3Yml5b1azDGlOdN5Knb) |
-| XFUND (FR)        |       | [Download link](https://drive.google.com/uc?export=download&id=1uuuwdG2kS9XiR0-fSxV0nGWH3_uakxIG) |
-| XFUND (IT)        |       | [Download link](https://drive.google.com/uc?export=download&id=16xZL_KReSeIYExtiyoDJFPzLHQa_Vr2G) |
-| XFUND (DE)        |       | [Download link]() |
-| XFUND (PT)        |       | [Download link]() |
-| <b>DiverseForm</b>|       | [Download link]() |
+| Dataset (Language)| Download     | 
+| ------------------| -----        |
+| FUNSD (EN)        | [Download link]() | 
+| XFUND (ZH)        | [Download link]() |
+| XFUND (JA)        | [Download link](https://drive.google.com/uc?export=download&id=1UCuS-yGlXeOpSCNQPys6fXOcPza4kMIN) |
+| XFUND (ES)        | [Download link](https://drive.google.com/uc?export=download&id=1mCI4j62g-7IXz3Yml5b1azDGlOdN5Knb) |
+| XFUND (FR)        | [Download link](https://drive.google.com/uc?export=download&id=1uuuwdG2kS9XiR0-fSxV0nGWH3_uakxIG) |
+| XFUND (IT)        | [Download link](https://drive.google.com/uc?export=download&id=16xZL_KReSeIYExtiyoDJFPzLHQa_Vr2G) |
+| XFUND (DE)        | [Download link]() |
+| XFUND (PT)        | [Download link]() |
+| <b>DiverseForm</b>| [Download link]() |
 
 
 ## Language specific fine-tuning on XFUND (for example, ZH)
