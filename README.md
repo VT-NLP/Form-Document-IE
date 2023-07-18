@@ -90,10 +90,10 @@ Use just paragraph or combined region as fit. Rename file to `xfun_custom.json` 
 | ------------------| ------| -----        |
 | FUNSD (EN)        |       | [Download link]() | 
 | XFUND (ZH)        |       | [Download link]() |
-| XFUND (JA)        |       | [Download link]() |
-| XFUND (ES)        |       | [Download link]() |
-| XFUND (FR)        |       | [Download link]() |
-| XFUND (IT)        |       | [Download link]() |
+| XFUND (JA)        |       | [Download link](https://drive.google.com/uc?export=download&id=1UCuS-yGlXeOpSCNQPys6fXOcPza4kMIN) |
+| XFUND (ES)        |       | [Download link](https://drive.google.com/uc?export=download&id=1mCI4j62g-7IXz3Yml5b1azDGlOdN5Knb) |
+| XFUND (FR)        |       | [Download link](https://drive.google.com/uc?export=download&id=1uuuwdG2kS9XiR0-fSxV0nGWH3_uakxIG) |
+| XFUND (IT)        |       | [Download link](https://drive.google.com/uc?export=download&id=16xZL_KReSeIYExtiyoDJFPzLHQa_Vr2G) |
 | XFUND (DE)        |       | [Download link]() |
 | XFUND (PT)        |       | [Download link]() |
 | <b>DiverseForm</b>|       | [Download link]() |
