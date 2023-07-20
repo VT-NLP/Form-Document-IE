@@ -88,15 +88,15 @@ Use just paragraph or combined region as fit. Rename file to `xfun_custom.json` 
 
 | Dataset (Language)| Download     | 
 | ------------------| -----        |
-| FUNSD (EN)        | [Download link]() | 
+| FUNSD (EN)        | [Download link](https://drive.google.com/uc?export=download&id=1qlVraomNkHcPmaWHsb94IhwtLLNEfm2w) | 
 | XFUND (ZH)        | [Download link]() |
 | XFUND (JA)        | [Download link](https://drive.google.com/uc?export=download&id=1UCuS-yGlXeOpSCNQPys6fXOcPza4kMIN) |
 | XFUND (ES)        | [Download link](https://drive.google.com/uc?export=download&id=1mCI4j62g-7IXz3Yml5b1azDGlOdN5Knb) |
 | XFUND (FR)        | [Download link](https://drive.google.com/uc?export=download&id=1uuuwdG2kS9XiR0-fSxV0nGWH3_uakxIG) |
 | XFUND (IT)        | [Download link](https://drive.google.com/uc?export=download&id=16xZL_KReSeIYExtiyoDJFPzLHQa_Vr2G) |
-| XFUND (DE)        | [Download link]() |
-| XFUND (PT)        | [Download link]() |
-| <b>DiverseForm</b>| [Download link]() |
+| XFUND (DE)        | [Download link](https://drive.google.com/uc?export=download&id=1JI6DAlGXPcym4AzaXNO2jQMZ9XmMFaf0) |
+| XFUND (PT)        | [Download link](https://drive.google.com/uc?export=download&id=1pBGLkU4TliQBpaHsrJl-iy3ReTWpg_hm) |
+| <b>DiverseForm</b>| [Download link](https://drive.google.com/uc?export=download&id=1yTdzNwVfoV2ci8rUYk5yYJueDMHzUT4h) |
 
 
 ## Language specific fine-tuning on XFUND (for example, ZH)
