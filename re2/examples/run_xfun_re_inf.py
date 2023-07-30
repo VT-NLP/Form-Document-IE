@@ -112,15 +112,10 @@ def main():
             additional_langs=data_args.additional_langs,
             keep_in_memory=True,
         )
-        # data_dict = {}
-        # data_dict['id'] = datasets["train"]["id"]
-        # data_dict["entities"] = datasets["train"]["entities"]
-        # data_dict['region_ids'] = datasets["train"]["region_ids"]
-        # bbox_file = open("/home/pritika/workspace/key-value-pair-extraction/layoutlmft/layoutlmft/temp/data_xfun_pt.json",'w')
-        # json.dump(data_dict, bbox_file, indent = 6, ensure_ascii=False)
+        
     if data_args.additional_langs:
         if "en" in data_args.additional_langs.split("+"):
-            add_datasets = layoutlmft.data.datasets.funsd_re.create_DatasetDict("/home/pritika/workspace/Data/FUNSD")
+            add_datasets = layoutlmft.data.datasets.funsd_re.create_DatasetDict("../../Data/FUNSD")
             datasets['train'] = datasets['train'].remove_columns("input_words")
             temp1 = add_datasets['train'].to_dict()
             temp2 = datasets['train'].to_dict()
