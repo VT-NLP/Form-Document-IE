@@ -115,7 +115,7 @@ def main():
         
     if data_args.additional_langs:
         if "en" in data_args.additional_langs.split("+"):
-            add_datasets = layoutlmft.data.datasets.funsd_re.create_DatasetDict("../../Data/FUNSD")
+            add_datasets = layoutlmft.data.datasets.funsd_re.create_DatasetDict("../Data/FUNSD")
             datasets['train'] = datasets['train'].remove_columns("input_words")
             temp1 = add_datasets['train'].to_dict()
             temp2 = datasets['train'].to_dict()
