@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Change directory to the folder containing the subfolders
-cd /home/pritika/workspace/key-value-pair-extraction/layoutlmft/layoutlmft/temp_eval
+# Change directory to the folder containing the subfolders with checkpoints
+cd ...
 
 # Initialize variables to hold the maximum f1 score and the name of the folder with that score
 max_score=0
