@@ -117,7 +117,7 @@ def generate_examples(filepath, diverseForm = True):
             with open('xfun_custom.json') as json_file:
                         regions = json.load(json_file)
         else:
-            with open('/home/pritika/workspace/Data/inference/regions.json') as json_file:
+            with open('../../../../Data/inference/regions.json') as json_file:
                 regions = json.load(json_file)
 
         file_path = os.path.join(ann_dir, file)
