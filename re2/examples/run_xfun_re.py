@@ -98,9 +98,9 @@ def main():
     set_seed(training_args.seed)
     
     if data_args.lang == "en":
-        datasets = layoutlmft.data.datasets.custom_re.create_DatasetDict("/home/pritika/workspace/Data/CUSTOM_DATASET")
+        datasets = layoutlmft.data.datasets.custom_re.create_DatasetDict("../../Data/CUSTOM_DATASET")
     # if data_args.lang == "en":
-    #     datasets = layoutlmft.data.datasets.funsd_re.create_DatasetDict("/home/pritika/workspace/Data/FUNSD")
+    #     datasets = layoutlmft.data.datasets.funsd_re.create_DatasetDict("../../Data/FUNSD")
     else:
         datasets = load_dataset(
             os.path.abspath(layoutlmft.data.datasets.xfun.__file__),
@@ -108,12 +108,7 @@ def main():
             additional_langs=data_args.additional_langs,
             keep_in_memory=True,
         )
-        data_dict = {}
-        data_dict['id'] = datasets["train"]["id"]
-        data_dict["entities"] = datasets["train"]["entities"]
-        data_dict['region_ids'] = datasets["train"]["region_ids"]
-        bbox_file = open("/home/pritika/workspace/key-value-pair-extraction/layoutlmft/layoutlmft/temp/data_xfun_pt.json",'w')
-        json.dump(data_dict, bbox_file, indent = 6, ensure_ascii=False)
+        
     if data_args.additional_langs:
         if "en" in data_args.additional_langs.split("+"):
             add_datasets = layoutlmft.data.datasets.funsd_re.create_DatasetDict("/home/pritika/workspace/Data/FUNSD")
