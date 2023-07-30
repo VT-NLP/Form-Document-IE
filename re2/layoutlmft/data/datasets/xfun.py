@@ -403,5 +403,3 @@ class XFUN(datasets.GeneratorBasedBuilder):
                     )
                     #final_dict[f"{doc['id']}_{chunk_id}"] = regions_in_this_span
                     yield f"{doc['id']}_{chunk_id}", item
-            # bbox_file = open("/home/pritika/workspace/unilm/layoutlmft/layoutlmft/temp/regions.json",'w')
-            # json.dump(final_dict, bbox_file, indent = 6, ensure_ascii=False)
