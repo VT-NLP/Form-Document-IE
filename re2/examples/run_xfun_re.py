@@ -98,9 +98,9 @@ def main():
     set_seed(training_args.seed)
     
     if data_args.lang == "en":
-        datasets = layoutlmft.data.datasets.custom_re.create_DatasetDict("../../Data/CUSTOM_DATASET")
+        datasets = layoutlmft.data.datasets.custom_re.create_DatasetDict("../Data/CUSTOM_DATASET")
     # if data_args.lang == "en":
-    #     datasets = layoutlmft.data.datasets.funsd_re.create_DatasetDict("../../Data/FUNSD")
+    #     datasets = layoutlmft.data.datasets.funsd_re.create_DatasetDict("../Data/FUNSD")
     else:
         datasets = load_dataset(
             os.path.abspath(layoutlmft.data.datasets.xfun.__file__),
@@ -111,7 +111,7 @@ def main():
         
     if data_args.additional_langs:
         if "en" in data_args.additional_langs.split("+"):
-            add_datasets = layoutlmft.data.datasets.funsd_re.create_DatasetDict("/home/pritika/workspace/Data/FUNSD")
+            add_datasets = layoutlmft.data.datasets.funsd_re.create_DatasetDict("../Data/FUNSD")
             datasets['train'] = datasets['train'].remove_columns("input_words")
             temp1 = add_datasets['train'].to_dict()
             temp2 = datasets['train'].to_dict()
